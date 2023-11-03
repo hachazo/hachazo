@@ -16,7 +16,7 @@ Soy un estudiante de licenciatura en informática apasionado por la tecnología 
 ![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=2f81f7&width=435&lines=Habilidades)
 - Otros: Linux, Shell scripting
 
-![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=2f81f7&width=435&lines=Cómo+contactarme)
+![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=2f81f7&width=435&lines=Como+contactarme)
 Puedes contactarme a través de mi [correo electrónico](walterw9512@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin).
 
 ¡Gracias por visitar mi perfil de GitHub!

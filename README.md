@@ -1,8 +1,8 @@
 # Hola, soy walter  👋
-
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 ## Acerca de mí
 Soy un estudiante de licenciatura en informática apasionado por la tecnología y el desarrollo de software. Estoy en constante aprendizaje y me encanta explorar nuevas áreas dentro de la informática.
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+
 ## Mis intereses
 - Desarrollo de software
 - Programación en Python, Java, C++
